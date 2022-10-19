@@ -46,6 +46,8 @@ https://citaty.info/topic/informacionnye-tehnologii
 
 **2 ветка**
 
+ Конфликт
+
 ## Цитаты
 
 
