@@ -44,6 +44,8 @@
 
 ## Сссылки
 
+https://citaty.info/topic/informacionnye-tehnologii
+
 **3 ветка**
 
 ## Цитаты
