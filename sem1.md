@@ -18,7 +18,7 @@
 >Отключи телефон, не заходи в контакт, и ты узнаешь, сколько у тебя настоящих друзей.
 [Сссылка на источник]: https://citatnica.ru/citaty/krutye-tsitaty-dlya-patsanov-400-tsitat
 
-![фото](stethem_269244097_orig_.jpg)
+
 
 # Семинар 2
 
@@ -55,9 +55,13 @@ https://citaty.info/topic/informacionnye-tehnologii
 
 **3 ветка**
 
-## Итог 
+
 
 **4 ветка**
 
+## Итог 
+
+Шведская семья
 Здесь будет фото
+![фото](stethem_269244097_orig_.jpg)
 
