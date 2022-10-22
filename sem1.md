@@ -65,3 +65,7 @@ https://citaty.info/topic/informacionnye-tehnologii
 Здесь будет фото
 ![фото](stethem_269244097_orig_.jpg)
 
+
+*git diff* - увидеть разницу между текущим файлом и закоммиченным файлом
+
+*git checkout master*  - вернуться к актуальному состоянию и продолжить работу
